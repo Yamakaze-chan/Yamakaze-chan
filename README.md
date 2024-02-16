@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yamakaze-chan
+- 👋 Hi, I’m Tran Quang Nhat, you could call me Yamakaze or Mason
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Computer Vision
 - 📫 Contact me: tranquangnhat290402@gmail.com
